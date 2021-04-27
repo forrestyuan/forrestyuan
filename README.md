@@ -10,7 +10,7 @@
 <span>🌱 I’m currently learning `React & vue`</span>  
 <span>📫 How to reach me: [juejin](https://juejin.cn/user/3421335917699335) OR [email](2316539148@qq.com)</span>  
 <span>😄 Pronouns: code for world, not for one!</span>  
-<span>⚡ Fun fact: (fact as unknow) as hello_world</span>  
+<span>⚡ Fun fact: (fact as unknown) as hello_world</span>  
 
 
 <!--
