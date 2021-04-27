@@ -5,14 +5,13 @@
 
 ## Love， Peace， Code
 🤔I'm a crazy fan of open source frameworks.  
-
-🔭 I’m currently working on Drawboard Online  
-🌱 I’m currently learning React & vue   
-📫 How to reach me: [juejin](https://juejin.cn/user/3421335917699335) OR [email](2316539148@qq.com)  
-😄 Pronouns: code for world, not for one!  
-⚡ Fun fact: (fact as unknow) as hello_world  
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=forrestyuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<span>🔭 I’m currently working on `Drawboard Online`</span>  
+<span>🌱 I’m currently learning `React & vue`</span>  
+<span>📫 How to reach me: [juejin](https://juejin.cn/user/3421335917699335) OR [email](2316539148@qq.com)</span>  
+<span>😄 Pronouns: code for world, not for one!</span>  
+<span>⚡ Fun fact: (fact as unknow) as hello_world</span>  
+
 
 <!--
 **forrestyuan/forrestyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
