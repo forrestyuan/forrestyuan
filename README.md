@@ -5,7 +5,6 @@
 
 ## Love， Peace， Code
 🤔I'm a crazy fan of open source frameworks.  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=forrestyuan&show_icons=true&icon_color=CE1D2D&hide_title=true&theme=radical" />
 <span>🔭 I’m currently working on `Drawboard Online`</span>  
 <span>🌱 I’m currently learning `React & vue`</span>  
 <span>📫 How to reach me: [juejin](https://juejin.cn/user/3421335917699335) OR [email](2316539148@qq.com)</span>  
